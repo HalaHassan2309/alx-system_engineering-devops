@@ -1,2 +1,3 @@
-0 SCHOOL is so cool
-hii SCHOOL
+SCHOOL
+#!/bin/bash
+ls -la
